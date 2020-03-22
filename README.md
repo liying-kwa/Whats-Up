@@ -2,7 +2,7 @@
 50.002 Computation Structures: Electronic Game Design 1D Project
 
 ## Introduction
-What’s Up is a modified version of the original Seven-Up game, with the following key features:
+What’s Up is a modified version of the original Seven-Up game, which makes use of a 16-Bit ALU simulated by a Mojo V3 FPGA. The game has the following key features:
 
 * Single-player
 * Points-based
